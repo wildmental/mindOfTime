@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/view/news/news_proxy.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/news/news_rss.jsp=UTF-8
+encoding//src/kr/co/javaspecialist/board/model/BoardDAO.java=UTF-8
+encoding//src/kr/co/javaspecialist/common/controller/NullHandler.java=UTF-8
+encoding//src/kr/co/javaspecialist/common/web/DispatcherServlet.java=UTF-8
+encoding/<project>=UTF-8
